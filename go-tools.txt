@@ -1,0 +1,5 @@
+#1 go list 可以查看某一个包的依赖关系.
+#2 go vet 可以检查代码不符合 golang 规范的地方
+#3 热编译工具 https://github.com/silenceper/gowatch
+#4 Go Callvis  golang 的代码调用链图工具
+#5 自动生成测试用例工具 https://github.com/cweill/gotests
